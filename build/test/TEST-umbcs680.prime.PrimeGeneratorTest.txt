@@ -1,0 +1,7 @@
+Testcase: umbcs680.prime.PrimeGeneratorTest
+Test: invalidRangeWithTryCatch() took 32 milli sec(s)
+Test: fromNegative10toPositive10() took 0 milli sec(s)
+Test: from1to10() took 0 milli sec(s)
+Test: negativeRangeWithTryCatch() took 0 milli sec(s)
+Test: from11to20() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 47 milli sec(s)
