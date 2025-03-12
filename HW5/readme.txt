@@ -1,0 +1,3 @@
+In HW-4 we saw that a Car Manufactures(observable) releases an update to the Car Models(Observer). Now in this HW, the Car Models(observers) can also release events back to the Car Manufacturer. And the Car Manufacturer has to acknowledge all the Car models simultaneously whenever an update is released.
+
+This situation enables many-to-many communication in a way that each Car Model can be both an observer (hiding to receive updates) and an observable (posting events to the producer).
